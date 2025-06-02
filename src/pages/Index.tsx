@@ -100,15 +100,15 @@ const Index = () => {
         
         <div className="relative z-10 max-w-6xl mx-auto px-6 text-center">
           <div className="mb-8">
-            <h1 className="text-6xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white via-cyan-200 to-cyan-400 bg-clip-text text-transparent">
+            <h1 className="text-6xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-yellow-400 via-yellow-300 to-yellow-500 bg-clip-text text-transparent">
               QuantAI
             </h1>
-            <p className="text-3xl md:text-4xl font-light mb-4 text-gray-100">
+            <p className="text-3xl md:text-4xl font-bold mb-4 text-yellow-400">
               Visão computacional aplicada à realidade
             </p>
           </div>
           
-          <p className="text-xl md:text-2xl text-gray-300 mb-12 max-w-3xl mx-auto">
+          <p className="text-xl md:text-2xl font-bold text-yellow-300 mb-12 max-w-3xl mx-auto">
             Conte com a precisão das máquinas para enxergar o que seus olhos não veem.
           </p>
           
