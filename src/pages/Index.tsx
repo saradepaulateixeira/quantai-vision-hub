@@ -110,14 +110,6 @@ const Index = () => {
             <p className="text-xl md:text-2xl font-bold text-white mb-12 max-w-3xl mx-auto">
               Conte com a precisão das máquinas para enxergar o que seus olhos não veem.
             </p>
-                      
-          <Button 
-            size="lg" 
-            className="bg-cyan-500 hover:bg-white hover:text-gray-900 text-black font-semibold px-8 py-4 text-lg transition-all duration-300 transform hover:scale-105"
-          >
-            Agende uma avaliação gratuita
-            <ArrowRight className="ml-2 h-5 w-5" />
-          </Button>
         </div>
 
         <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-gray-800 to-transparent"></div>
